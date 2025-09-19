@@ -43,5 +43,8 @@ You can access the live application here:
 1. **Clone the repository**  
 
 ```bash
-git clone https://github.com/<your-username>/LLM-Document-Analyzer.git
+git clone https://github.com/CrayonHari/LLM-Document-Analyzer.git
 cd LLM-Document-Analyzer
+
+![WhatsApp Image 2025-09-19 at 10 18 31_3dcda80f](https://github.com/user-attachments/assets/b4b5dd69-6301-4962-abe6-cf9e88487c6f)
+
